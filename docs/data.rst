@@ -2,6 +2,9 @@
 Data
 *****
 
+Data about the connections from the following cells or regions are provided.  Currently, all
+values are for the cat.
+
 .. toctree::
    :maxdepth: 2
 
