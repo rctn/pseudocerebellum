@@ -12,6 +12,7 @@ Welcome to the Pseudocerebellum project website!
 
    about
    abbreviations
+   table
    data
    papers
 
