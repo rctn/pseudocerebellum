@@ -10,6 +10,10 @@ Papers
    papers/Abbas_Rahimi_Hyperdimensional_Computing_ExG_2018
 
 
+Also see :cite:`Albus-1981` for a model.
 
+.. bibliography:: refs.bib
+   :all:
+ 
 
 
