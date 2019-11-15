@@ -4,24 +4,31 @@ About the Pseudocerebellum project
 
 
 The aim of the project is to gather information about the cerebellum
-that can lead to the engineering of efficient associative memories for
-man-made systems.  The project is organized around a website that
+that could lead to the engineering of efficient associative memories
+for man-made systems.  The project is organized around a website that
 collects and abstracts information about the cerebellum as an
 associative memory.  The website is meant to be a community effort.
 Ideally, it will build a table with an entry for each neuron type in
 the cerebellum, the number of neurons of that type, what neurons they
 connect to with what fan-ins and fan-outs, nature of connections
-(excitatory, inhibitory), and firing rate (typical, range).  In
-addition to realistic wiring, we want the information to be sufficient
-for realistic estimation of the cerebellum's energy use.
+(excitatory, inhibitory), and firing rate (typical, range).  This kind
+of information can be seen in Figure 2 by Loebner (1989)  :cite:`LoebnerEE-1989`.  In addition
+to wiring, we want the information to be sufficient for realistic
+estimation of the cerebellum's energy use.
+
+.. figure:: _static/images/Loebner_from_RaughMR-ed-1989_Fig2.jpg
+   :alt: Fig 2. from Loebner, 1989.
+
+   Figure 2 in Loebner, 1989 :cite:`LoebnerEE-1989`.
+
 
 The table is referred to as "Cerebellum Facts."  Each "fact" is
 accompanied by a reference to the source.  In addition to the list of
-references, the website includes an annotated bibliography, to help
+references, the website will include an annotated bibliography, to help
 viewers navigate the material.  The annotations are informal, more
 like comments.  They are written by us participants in the website and
 are meant to point out particulars about a paper that have struck us
-as significant and worth sharing with others.
+as significant and likely to be helpful to others.
 
 
 Why the Cerebellum?
@@ -30,7 +37,7 @@ Why the Cerebellum?
 Human and animal memories work by association.  Among the brain's
 circuits, the cerebellum's looks the most like an associative memory.
 It is highly regular, has a small number of neuron types but more
-neurons overall than the rest of the brain (Llinas 1975) :cite:`LlinasRR-1975`, and it has
+neurons overall than the rest of the brain (Llinas, 1975) :cite:`LlinasRR-1975`, and it has
 been modeled mathematically since Marr's theory of cerebellar cortex
 (1968) :cite:`MarrD-1969`.  Among models of the brain's circuits, the cerebellum's is
 perhaps the most comprehensive and informative.
@@ -44,7 +51,10 @@ development of high-dimensional computing--Plate's (2003) HRR :cite:`PlateTA-200
 kin--cerebellum-like associative memory is likely to be important for
 all kinds of learning, not just for learning of motor control.  Its
 huge number of neurons and synapses suggests a capacity that is large
-enough to support learning over a lifetime.
+enough to support learning over a lifetime.  We view such a memory as
+essential for sensor-motor learning and cognition that brains are
+capable of.
+
 
 Pseudocerebellum is an associative memory for high-dimensional
 vectors--for vectors with thousands of dimensions.  When cued with a
@@ -63,7 +73,7 @@ network management and functional cerebellum synthesis" at IEEE
 COMPCON Spring 1989 :cite:`LoebnerEE-1989`, but not followed up on.  However, new ideas about
 computing with vectors, starting with Plate's Holographic Reduced
 Representation (HRR; 1991 :cite:`PlateTA-1991`, 2003 :cite:`PlateTA-2003`), have made the building of an
-efficient associative memory into a problem with practical
+efficient associative memory into a practical problem of major
 significance.
 
 We will start with neuroanatomy.  Where do inputs to the cerebellum
@@ -76,20 +86,19 @@ with an entry for each neuron type.  In addition to connections and
 numbers, the table will include references, with page numbers, to
 where the information is found.
 
-In addition to cerebellar facts, the website will have PDFs of
-cerebellum papers and a bibliography, plus comments written by us
-highlighting the reasons for including the paper in the website.
-Please tell us in your comment what caught your attention, what did
-you learn, what might be helpful for someone else?
+In addition to cerebellum facts and references, the website will have
+comments written by us highlighting the reasons for including the
+paper in the website.  Please tell us in your comment what caught your
+attention, what did you learn, what might be helpful for someone else?
 
 
 Models of the Cerebellum
 ========================
 
 Three mathematical models of the cerebellum interpret it as an
-associative memory, David Marr's (1969) :cite:`MarrD-1969` from neuroscience perspective,
-James Albus' (1971) :cite:`Albus-1971` from engineering perspective, and my Sparse
-Distributed Memory (SDM; Kanerva 1988 :cite:`KanervaP-1988`) from cognitive science and
+associative memory, Marr's (1969) :cite:`MarrD-1969` from neuroscience perspective,
+Albus' (1971) :cite:`Albus-1971` from engineering perspective, and Kanerva's (1988)
+:cite:`KanervaP-1988` from cognitive science and
 computing perspective.  All three assign identical functions to two
 prominent cell types and two main kinds of input.  (1) Mossy fibers
 bring in information from the rest of the nervous system.  (2) Granule
@@ -100,11 +109,11 @@ provide an error signal when the output differs from the desired
 output.  This is known as the Marr-Albus model.
 
 Marr's paper is not an easy read.  Tyrrell \& Willshaw (1992) :cite:`TyrrellT+WillshawD-1992` help us
-digest it by animating it with simulation.  Albus' treats the circuit
+digest it by animating it with simulation.  Albus treats the circuit
 as an engineering object applicable to robotic control (CMAC =
-Cerebellar Model Articulation Controller; Albus 1981 :cite:`Albus-1981`).  I liken it to
-a computer memory for high-dimensional data (high-D RAM; Kanerva
-1989) :cite:`KanervaP-1988`.  My paper provides background for Jaeckel's (1989a, 1989b)
+Cerebellar Model Articulation Controller; Albus 1981 :cite:`Albus-1981`).  Kanerva likens it to
+a computer memory for high-dimensional data (SDM = Sparse Distributed Memory; Kanerva
+1989) :cite:`KanervaP-1988`.  Kanerva (1989) :cite:`KanervaP-1988` provides background for Jaeckel's (1989a, 1989b)
 :cite:`JaeckelLA-1989a,JaeckelLA-1989b`
 alternate designs for SDM.
 
@@ -115,7 +124,7 @@ Purkinje-cell dendrites.  Climbing fibers are a telltale feature of
 the circuit, as each Purkinje cell is paired with a single climbing
 fiber which is ideally situated for "training" the Purkinje cell; see
 Figs. 1 and 2 of D'Angelo and Casali (2013) :cite:`DAngelo+Casali-2013`.  See also Kandel,
-Schwartz & Jessell (2000) Chapter 42 on the cerebellum :cite:`Kandel_and_Schwartz-2000` and images
+Schwartz & Jessell (2000) Chapter 42 on the cerebellum :cite:`Kandel_and_Schwartz-2000` and images that
 Google returns for "cerebellar circuitry."
 
 The cerebellum "memory" differs from computer memory in one important
