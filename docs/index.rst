@@ -14,7 +14,7 @@ Welcome to the Pseudocerebellum project website!
    abbreviations
    table
    data
-   papers
+   references/references
 
 
 .. following commented out

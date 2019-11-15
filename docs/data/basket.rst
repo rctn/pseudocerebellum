@@ -13,5 +13,8 @@ Connections:
 Reference:
 :ref:`Loebner_from_RaughMR-ed-1989`
 
-Some text added.
+Also, see :cite:`DAngeloE+11-2016` for more info.
 
+
+.. comment bibliography:: ../refs.bib
+   :style: apastyle

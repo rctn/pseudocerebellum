@@ -1,2 +1,4 @@
 sphinxcontrib-bibtex>=1.0
+pybtex
+pybtex-apa-style
 
