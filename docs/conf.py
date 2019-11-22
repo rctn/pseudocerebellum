@@ -20,8 +20,8 @@ sys.path.append(os.path.abspath("./_ext"))
 # -- Project information -----------------------------------------------------
 
 project = 'Pseudocerebellum'
-copyright = '2019, Pentti Kanerva, Bruno Olshausen, Jeff Teeters'
-author = 'Pentti Kanerva, Bruno Olshausen, Jeff Teeters'
+copyright = '2019, Pentti Kanerva, Jeff Teeters, Bruno Olshausen'
+author = 'Pentti Kanerva, Jeff Teeters, Bruno Olshausen'
 
 
 # -- General configuration ---------------------------------------------------
@@ -71,10 +71,13 @@ html_css_files = [
 
 from pybtex.style.formatting.unsrt import Style as UnsrtStyle
 from pybtex.style.labels.alpha import LabelStyle as AlphaLabelStyle
+from pybtex.style.sorting import author_year_title
+
+
 from pybtex.plugin import register_plugin
 import os
 from pybtex.style.template import (
-    href, optional, sentence, words
+    href, field, optional, sentence, words
 )
 # extensions = ['sphinxcontrib.bibtex']
 # exclude_patterns = ['_build']
@@ -101,15 +104,10 @@ class FootApaStyle(UnsrtStyle):
             ]
 
     def format_pdf(self, entry):
-        # create link to pdf file if present
-        cwd = os.getcwd()
-        print("%s - cwd = %s" % (entry.key, cwd))
-        # last_part_path = os.path.basename(os.path.normpath(cwd))
-        # if last_part_path == 
         pdf_name = entry.key + ".pdf"
         search_path = "./_static/papers/" + pdf_name
         if os.path.isfile(search_path):
-            print("----------- Found %s", pdf_name)
+            print("----------- Found %s" % pdf_name)
             target_path = "../_static/papers/" + pdf_name
             return words [
                 'pdf:',
@@ -118,6 +116,30 @@ class FootApaStyle(UnsrtStyle):
         else:
             return words [""]
 
+        scratch_code = """
+        # create link to pdf file if present
+        # cwd = os.getcwd()
+        # pdf_name = field('pdf', raw=True)
+        pdf_name = "none"  # ignore pdf tag for now, can't figure out how to extract it
+        # import pdb; pdb.set_trace()
+        target_path = "./_static/papers/" + pdf_name
+        if os.path.isfile(target_path):
+            pass
+        else:
+            pdf_name = entry.key + ".pdf"
+            target_path = "../_static/papers/" + pdf_name
+            if os.path.isfile(target_path):
+                pass
+            else:
+                # didn't find pdf
+                return words [""]
+        # found pdf
+        print("----------- Found %s", pdf_name)
+        return words [
+            'pdf:',
+            href [ target_path, pdf_name ]
+        ]
+"""
 
     def format_rst(self, entry):
         # create link to rst file if present
@@ -136,6 +158,7 @@ class FootApaStyle(UnsrtStyle):
 
 class ApaStyle(FootApaStyle):
     default_label_style = 'apa'
+    default_sorting_style = 'author_year_title'
 
     def format_web_refs(self, e):
         # based on urlbst output.web.refs
@@ -154,4 +177,6 @@ class ApaStyle(FootApaStyle):
 register_plugin('pybtex.style.labels', 'apa', ApaLabelStyle)
 register_plugin('pybtex.style.formatting', 'apastyle', ApaStyle)
 register_plugin('pybtex.style.formatting', 'footapastyle', FootApaStyle)
+# register_plugin('pybtex.style.sorting','apastyle', ApaStyle)
+register_plugin('pybtex.style.sorting','apastyle', author_year_title)
 
