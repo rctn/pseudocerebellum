@@ -267,7 +267,7 @@ to us.
 
 3. COGNITIVE CONSILIENCE provides an interactive graphical interface
 for tracing connections between neurons in different parts of the
-brain (Solari & Stoner, 2011a,b) :cite:`olariSVH+StonerR-2011a,olariSVH+StonerR-2011b`
+brain (Solari & Stoner, 2011a,b) :cite:`SolariSVH+StonerR-2011a,SolariSVH+StonerR-2011b`
 
 4. CEREBELLAR ATLAS VIEWER displays the activity (functional MRI) of
 different parts of the cerebellum in a variety of tasks (King et al.,
