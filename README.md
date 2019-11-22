@@ -1,11 +1,9 @@
 # Pseudocerebellum Project
 
-This repository was setup to help evaluate using GitHub to
-store information for the Pseudocerebellum project.  Two demo sites are created.
-They are using:
-
-1. Github wiki.  Click on the "Wiki" link or on:<br>
-[https://github.com/rctn/pseudocerebellum/wiki](https://github.com/rctn/pseudocerebellum/wiki)
-
-2. Readthedocs.  These are generated using Sphinx (a documentation generator used with Python).<br>
+This repository contains source files for the Pseudocerebellum project.
+The Pseudocerebellum project website is currently hosted at:
 [https://pseudocerebellum.readthedocs.io](https://pseudocerebellum.readthedocs.io)
+
+The project website (html files at the above link) are generated from the files in this
+repository using Sphinx [https://www.sphinx-doc.org/en/master/](https://www.sphinx-doc.org/en/master/).
+
