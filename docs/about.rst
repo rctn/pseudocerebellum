@@ -9,7 +9,7 @@ Pentti Kanerva, Jeff Teeters and Bruno Olshausen
 
 pseudocerebellum@berkeley.edu
 
-Editor's note, November 20, 2019: This website is under construction,
+Editor's note, November 22, 2019: This website is under construction,
 your comments are welcome.
 
 
