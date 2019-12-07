@@ -11,6 +11,7 @@ Welcome to the Pseudocerebellum project website!
    :caption: Contents:
 
    about
+   organizing
    abbreviations
    table
    data

@@ -1,4 +1,5 @@
 
+.. Fri Dec  6 15:41:21 PST 2019
 .. Tue Nov 19 17:40:21 PST 2019
 
 ****************************
@@ -9,7 +10,7 @@ Pentti Kanerva, Jeff Teeters and Bruno Olshausen
 
 pseudocerebellum@berkeley.edu
 
-Editor's note, November 22, 2019: This website is under construction,
+Editor's note, November 19, 2019: This website is under construction,
 your comments are welcome.
 
 
@@ -26,7 +27,7 @@ for artificial systems.  The project is organized around a website that
 collects and abstracts information about the cerebellum as an
 associative memory.  The website is meant to be a community effort.
 Ideally, it will build a table with an entry for each neuron type in
-the cerebellum, the number of neurons of that type, what neurons they
+the cerebellum, its location, the number of neurons of that type, what neurons they
 connect to with what fan-ins and fan-outs, nature of connections
 (excitatory, inhibitory), and firing rate (typical, range).  This kind
 of information can be seen in Figure 2 by Loebner (1989)  :cite:`LoebnerEE-1989`.  In addition
@@ -77,7 +78,7 @@ Pseudocerebellum is an associative memory for high-dimensional
 vectors--referred to also as "cleanup memory" for vectors with
 thousands of dimensions.  When cued with a vector, it finds the most
 similar vector or vectors among a set of stored vectors: its function
-is k-nearest-neighbor search among tens of thousands of
+is k-nearest-neighbor search among thousands-to-millions of
 high-dimensional vectors.  Associative memory is a key component of an
 architecture for computing with high-dimensional vectors--for
 "hyperdimensional" computing (Kanerva, 2009) :cite:`KanervaP-2009`.  Building a fast and
@@ -85,7 +86,7 @@ energy-efficient associative memory is a major engineering challenge.
 
 The website is for gathering information about the cerebellum that
 could lead to the engineering of efficient associative memories for
-high-dimensional vectors.  Research of this kind was began in the
+high-dimensional vectors.  Research of this kind was begun in the
 1980s and presented by Egon Loebner (1989) in a paper on "Intelligent
 network management and functional cerebellum synthesis" at IEEE
 COMPCON Spring 1989 :cite:`LoebnerEE-1989`, but not followed up on.  However, new ideas about
@@ -93,6 +94,14 @@ computing with vectors, starting with Plate's Holographic Reduced
 Representation (HRR; 1991 :cite:`PlateT-1991`, 2003 :cite:`PlateTA-2003`), have made the building of an
 efficient associative memory into a practical problem of major
 significance.
+Even if the cerebellum were not exactly an associative memory of the
+kind we have envisaged, understanding it in engineering terms can be
+of great value to fields such as robotics.  Cerebellum's importance
+for motor learning and control is undisputed, its size has increased
+with the level of evolution--in mammals it has more neurons than the
+rest of the brain--and the circuit is uniform and relatively simple.
+
+.. Per Bruno
 
 We will start with neuroanatomy.  Where do inputs to the cerebellum
 come from and in what numbers?  Where do outputs go and in what
@@ -115,16 +124,18 @@ Models of the Cerebellum
 ========================
 
 Three mathematical models of the cerebellum interpret it as an
-associative memory, Marr's (1969) :cite:`MarrD-1969` from neuroscience perspective,
-Albus' (1971) :cite:`AlbusJS-1971` from engineering perspective, and Kanerva's (1988)
-:cite:`KanervaP-1988` from
-cognitive science and computing perspective.  All three assign
-identical functions to two prominent cell types and two main kinds of
-input, namely (1) Mossy Fibers bring in information from the rest of
-the brain, (2) Granule Cells distribute it within the cerebellar
-cortex, information is stored in (3) Purkinje-cell synapses with
-granule-cell dendrites, Purkinje Cells provide the sole output, and
-(4) Climbing Fibers provide an error signal when the output differs
+associative memory: Marr's (1969) :cite:`MarrD-1969` from a neuroscience perspective,
+Albus' (1971) :cite:`AlbusJS-1971` from an engineering perspective, and Kanerva's (1988)
+:cite:`KanervaP-1988` from 
+cognitive science and computing perspectives.  All three assign
+identical functions to two prominent cell types, the Granule Cells and
+the Purkinje Cells, and to two main kinds of
+input, the Mossy Fibers and the Climbing Fibers.  The mossy fibers
+bring in information from the rest of
+the nervous system, the granule cells distribute it within the cerebellar
+cortex, information is stored in the Purkinje-cell synapses with
+granule-cell axons, the Purkinje cells provide the sole output, and
+the climbing fibers provide an error signal when the output differs
 from the desired output.  This is known as the Marr-Albus model.
 
 Marr's paper is not an easy read.  Tyrrell \& Willshaw (1992) :cite:`TyrrellT+WillshawD-1992` help us
@@ -169,6 +180,9 @@ same locations, whereas the overlap is minimal when the cues are
 dissimilar.
 
 
+
+
+
 Looking to Be Efficient
 =======================
 
@@ -209,38 +223,6 @@ Karlsson's (2001) :cite:`KarlssonR-2001` Fast Activation Mechanisms is an effici
 realization of Jaeckel's selected-coordinate design.
 
 
-ORGANIZING THE WEBSITE
-======================
-
-We are new to making a website like this.  For collecting, organizing
-and sharing information over the Internet, we have used Stanford
-Encyclopedia of Philosophy https://plato.stanford.edu/ as a model,
-although our effort is small in comparison, and more focused.  The
-data for the "Van Essen Diagram" of the hierarchy of visual areas
-(Fig. 4 of Felleman & Van Essen, 1991 :cite:`FellemanDJ+VanEssenDC-1991`) is another example we have
-followed, although they emphasize connections between brain areas
-while we, as circuit designers, are much more concerned with actual
-numbers.  A more recent example, specific to the cerebellum, comes
-from a collaboration within Europe's Human Brain Project (Table 1 of
-D'Angelo et al., 2016 :cite:`DAngeloE+11-2016`).
-
-We hope to make the website into a useful source of information about
-the cerebellum that is easy to navigate and to contribute to.  It is
-focused narrowly on the cerebellum as an associative memory.  When you
-have information that you see missing or in need of updating, please
-pass it on to us for inclusion in the website--email it to
-
-  pseudocerebellum@berkeley.edu
-
-Your ideas for making the website more effective are welcome.
-
-The pseudocerebellum project is housed at UC Berkeley's Redwood Center
-for Theoretical Neuroscience and is funded from grants by Air Force
-Office of Scientific Research (Engineering and Information
-Science/Cognitive and Computational Neuroscience) and DARPA Defense
-Science Office (Artificial Intelligence Exploration/Virtual
-Intelligence Processing).
-
 .. *******************************************************
 
 RESOURCES
@@ -255,7 +237,7 @@ cerebellar research up to 2018:
   https://cerebellum.neuroinf.jp/
 
 
-2. HUMAN BRAIN PROJET includes a section on the cerebellum
+2. HUMAN BRAIN PROJECT includes a section on the cerebellum
 
   https://www.humanbrainproject.eu/en/brain-simulation/cerebellum/
 
