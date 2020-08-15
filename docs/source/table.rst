@@ -60,3 +60,47 @@ All values are for the cat.
 
 
 
+
+**New version below**
+
+.. _table_loebner_fig2a:
+
+
+Cells and connections in cat
+----------------------------
+
+The following table provides counts of cells and connections in the cat cerebellum.
+The first two columns (*Source cell* and *Cell count*) are respectively a cell type
+and the count (number) of cells of that type.  The values in the rest of the table
+give the number of connections from the Source cell to Target cells.  These are
+specified as a pair of numbers: FO,FI.  FO is fan-out (number of target cells each
+source cell contacts) and FI is fan-in (number of source cells going to each target
+cell).  Data is from Figure 2 in :cite:`LoebnerEE-1989`.
+
+
+.. tblrender:: table_loebner_fig2a
+   :expanded_col_title: "Cell count or Target cell"
+   :ct_offset: 2
+   :description:
+      Values are either a Cell count, or FO,FI where FO is *fan-out* (number of target cells
+      each source cell contacts) and FI is *fan-in* (number of source cells going to each
+      target cell).
+   :gridLayout:
+      +-------------+----------+------------------------------------------------------------------+
+      |             |          |  Target cell                                                     |
+      | Source      | Cell     +------------+------------+------------+-------------+-------------+
+      | cell        | count    | basket     | golgi      | granule    | purkinje    | stellate    |
+      +=============+==========+============+============+============+=============+=============+
+      | basket      |          |      -     |            |            |             |             |
+      +-------------+----------+------------+------------+------------+-------------+-------------+
+      | golgi       |          |            |      -     |            |             |             |
+      +-------------+----------+------------+------------+------------+-------------+-------------+
+      | granule     |          |            |            |      -     |             |             |
+      +-------------+----------+------------+------------+------------+-------------+-------------+
+      | purkinje    |          |            |            |            |      -      |             |
+      +-------------+----------+------------+------------+------------+-------------+-------------+
+      | stellate    |          |            |            |            |             |      -      |
+      +-------------+----------+------------+------------+------------+-------------+-------------+
+
+
+

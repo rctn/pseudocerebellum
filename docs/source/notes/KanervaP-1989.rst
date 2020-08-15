@@ -1,0 +1,9 @@
+*************
+KanervaP-1989
+*************
+
+Title:
+A CEREBELLAR-MODEL ASSOCIATIVE MEMORY AS A GENERALIZED RANDOM-ACCESS MEMORY
+
+
+

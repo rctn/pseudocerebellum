@@ -16,5 +16,6 @@ Connections:
 | DCN:
 | FO,FI: ?,?
 
-Reference:
-:ref:`Loebner_from_RaughMR-ed-1989`
+Reference:  
+
+:cite:`LoebnerEE-1989` :footcite:`LoebnerEE-1989`

@@ -14,7 +14,8 @@ Welcome to the Pseudocerebellum project website!
    organizing
    abbreviations
    table
-   data
+   data/data
+   notes/notes
    references/references
 
 

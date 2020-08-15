@@ -1,9 +1,6 @@
-.. _Abbas_Rahimi_Hyperdimensional_Computing_ExG_2018:
-
-
-************************************************
-Abbas_Rahimi_Hyperdimensional_Computing_ExG_2018
-************************************************
+**************
+RahimiA+3-2019
+**************
 
 Title:
 Efficient Biosignal Processing Using Hyperdimensional Computing: Network Templates

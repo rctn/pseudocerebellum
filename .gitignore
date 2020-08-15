@@ -1,4 +1,6 @@
 # Sphinx documentation
-docs/_build/
+docs/build/
+**/.DS_Store
+**/#*#
 *~
 

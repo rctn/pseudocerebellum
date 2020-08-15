@@ -17,4 +17,6 @@ Connections:
 
 
 Reference:
-:ref:`Loebner_from_RaughMR-ed-1989`
+
+
+:cite:`LoebnerEE-1989` :footcite:`LoebnerEE-1989`
