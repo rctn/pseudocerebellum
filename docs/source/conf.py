@@ -19,7 +19,7 @@ import sys
 # -- Project information -----------------------------------------------------
 
 project = 'Pseudocerebellum'
-copyright = '2020, Pentti Kanerva, Jeff Teeters, Bruno Olshausen. | Project supported by AFOSR FA9550-19-1-0241'
+copyright = '2020 Pentti Kanerva, Jeff Teeters, Bruno Olshausen. | Project supported by AFOSR FA9550-19-1-0241'
 author = 'Pentti Kanerva, Jeff Teeters, Bruno Olshausen'
 
 
