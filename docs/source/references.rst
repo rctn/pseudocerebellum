@@ -10,7 +10,7 @@ References
    papers/Abbas_Rahimi_Hyperdimensional_Computing_ExG_2018
 
 
-.. bibliography:: references/refs.bib
+.. bibliography:: refs.bib
    :all:
    :style: apastyle
 

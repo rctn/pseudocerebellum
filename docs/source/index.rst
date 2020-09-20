@@ -16,7 +16,7 @@ Welcome to the Pseudocerebellum project website!
    table
    data/data
    notes/notes
-   references/references
+   references
 
 
 .. following commented out

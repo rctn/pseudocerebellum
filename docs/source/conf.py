@@ -34,7 +34,7 @@ extensions = [
 'sphinxcontrib.bibtexpdflink',
 'sphinxcontrib.filltableref',
 ]
-bibtex_bibfiles = ['references/refs.bib']
+bibtex_bibfiles = ['refs.bib']
 bibtex_style = 'footapastyle'
 
 # Add any paths that contain templates here, relative to this directory.
