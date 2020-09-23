@@ -13,10 +13,11 @@ Welcome to the Pseudocerebellum project website!
    about
    organizing
    abbreviations
-   table
+   tables
    data/data
    notes/notes
    references
+   bibliography
 
 
 .. following commented out
