@@ -14,6 +14,7 @@ Welcome to the Pseudocerebellum project website!
    organizing
    abbreviations
    tables/index
+   properties/index
    data/data
    notes/notes
    references
