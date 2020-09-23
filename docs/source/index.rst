@@ -13,7 +13,7 @@ Welcome to the Pseudocerebellum project website!
    about
    organizing
    abbreviations
-   tables
+   tables/index
    data/data
    notes/notes
    references
