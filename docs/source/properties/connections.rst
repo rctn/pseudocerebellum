@@ -33,7 +33,7 @@ Below text from :cite:`KandelER+4-2013`.
 
 
 Vestibulocerebellum
--------------------
+...................
 
 The Vestibulocerebellum Regulates Balance and Eye Movements
 
@@ -49,7 +49,7 @@ Purkinje neurons in the lateral parts of the vestibulocerebellum project to the 
 
 
 Spinocerebellum
----------------
+...............
 
 The Spinocerebellum Regulates Body and Limb Movements.
 
@@ -79,7 +79,7 @@ The vermis may be the only area of the cerebellum responsible for saccades, but 
 
  
 Cerebrocerebellum
------------------
+.................
 
 The CerebrocerebellumIs Involved in Planning Movement
 
