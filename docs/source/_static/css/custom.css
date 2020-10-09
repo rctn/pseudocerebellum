@@ -2,3 +2,7 @@
 table, th, td {
   border: 1px solid black;
 }
+
+h1, .logo {
+   font-size: 120%;
+}
