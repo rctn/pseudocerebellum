@@ -20,7 +20,7 @@ About the Pseudocerebellum project
 Synopsis
 ========
 
-Our live depends on remembering a myriad of things learned over a
+Our lives depend on remembering a myriad of things learned over a
 lifetime.  Learning and remembering is what brains do, but how?  If we
 understood it in theory, we could begin to build artificial systems
 with traits somewhat like ours.
