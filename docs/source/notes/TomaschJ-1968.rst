@@ -17,7 +17,7 @@ ponto-cerebellar (from pons to cerebellum).
 Ratio of ponto-cerebellar to cortico-pontine
    From 1:1.37 to 1:2.25.  "This overall convergence ratio may not be uniform for every individual circuit,
    it indicates a definite reduction, however, in the number of unit-elements involved from the peduncular
-   to the pontine level.
+   to the pontine level."
 
 
 .. footbibliography::
