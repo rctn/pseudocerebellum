@@ -61,7 +61,7 @@ Summary of data in this paper:
 
 
 
-Excerpts from the paper.
+Excerpts from the paper:
 
 
 cortico-pontine (From cerebral cortex to pons).
