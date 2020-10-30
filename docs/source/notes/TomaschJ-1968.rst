@@ -57,7 +57,7 @@ Summary of data in this paper:
      - less than 1/2 number of fibers (0.782 / 2)
    * - superior cerebellar peduncle efferents (one side)
      - number axons leaving cerebellum through superior cerebellar peduncle
-     - about 311,000 (total number nuclei, 311,404; maybe less number fastiggi nuclei, 5201)
+     - about 311,000 (total number nuclei, 311,404; maybe less number fastigii nuclei, 5201)
 
 
 
