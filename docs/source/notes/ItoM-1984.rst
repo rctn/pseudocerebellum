@@ -1,0 +1,223 @@
+*********
+ItoM-1984
+*********
+
+
+Notes about :cite:`ItoM-1984` :footcite:`ItoM-1984`.
+
+
+This book has lots of data about the cerebellum in general.
+
+
+Introduction
+
+p. 11
+Table 1. Size of Cerebellum
+      Rat     Cat	Man
+      Weight (gm)   0.275a	2.941c	144d
+       0.33b  		132.7e
+				
+Surface area (mm^2)		543.6a	2,285c	84,246f
+	301b 			50,000b
+	260g				
+
+a Inukai (1928)
+b Hillman and Chen (1981a)
+c Palkovits, Magyar and Szentagothai (1971a)
+d Marshall (1892)
+e Zagon, McLaughlin, and Smith (1977)
+f Kreuzfuch (1902)
+g Armstrong and Schild (1970)
+h Braitenberg and Atwood (1958)
+
+
+p. 21 - Chapter 2.  Purkinje cells: morphology and development
+
+p. 22
+Table 2.  Number and density of Purkinje cells
+
+      Bird	 Rat Cat     Monkey	 Man
+Total number	     547,413a		 1,295,000d		14,237,674f
+      		     340,000b		 1,510,000e			15,000,000g
+		     			 278,000c					
+														
+Density														2,000h	1,014a 650i 510k 169f
+(per mm^2)														1,200b 333d 	 300g
+     															923c   364j	  615l
+
+a Inukai (1928)
+b Armstrong and Schild (1970)
+c Hillman and Chen (1981a)
+d Palkovits, Magyar and Szentagothai (1971a)
+e Mlonyeni (1971)
+f Kreuzfuchs (1902)
+g Braitenberg and Atwood (1958)
+h Baffoni (1963)
+I Smoljaninov (1971)
+j Friedrich and Brand (1980)
+k Fox and Bernard (1957)
+l Ellis (1919)
+
+p.26 (size of dendritic plate)
+
+350 um x 350 um x 35 um along convexities
+300 um x 500 um x 35 um along concavities in man
+(Brantenberg and Atwood, 1958)
+
+250 um x 300 um x 6 um in cat
+Eccles, Ito and Szentagothai, 1967)
+
+p. 29 Table 3.  Number of dendritic spines on the terminal branches of Purkinje cells
+
+   Mouse    Rat	Cat    Monkey	    Man	   Frog
+Total number	4,000a 17,350b
+40,000c
+7,500a
+51,500d	80,000e
+91,600f
+18,000g	61,000g
+34,000a	60,000a	3,000h
+Number per 10um		17.5b
+42c    	   15g			16h
+Total length of spiny branches (um)		9,942b		40,700g		4,000h
+
+a Smoljaniov (1971)
+b Palay and Chan-Palay (1974)
+c Hama and Kosaka (1979)
+d Hillman and Chen (1981b)
+e Palkovits, Magyar, and Szentagothai (1971a)
+f Palkovits, Magyar, and Szentagothai (1972)
+g Fox and Bernard (1957)
+h Hillman (1969d)
+
+p. 36 Axon Collateral
+Purkinje cells have axon collaterals that extend in same plane as dendrites (perpendicular to longitiduinal axis of folia), sometimes to other lobules.  In cat, synapse onto basket and Golgi cells (Eccles et al., 1967); in mouse, a few synapse to purkinje cell dendrites (Larramendi and Lemkey-Johnston, 1970).  In rat, somata and dendrites of basket and Golgi cells and also Purkinje and Lugaro cells, occasional granule cells (Chan-Palay, 1971).
+
+
+p. 36 - Terminal Arborization
+Palkovits, et al, 1977 cat
+Convergence - 860 P-cells to 1 nuclear cell
+Divergence - Each P-cell synapses about 35 nuclear cells
+Terminals per purkinje axon about 500
+Terminals of 1 purkinje axon / cell = 13.5
+P-cell to nuclear cell ratio: 26 : 1
+purkinje terminals / nuclear cell about 12,000
+
+terminals are 12 to 33% of total bouton number in cat nuclear interpositas and nucleus Dieters (lateral vestibular nucleus)
+
+
+p. 74 - Chapter 6, Granule cells
+
+Geometry and numerical data
+Each granule extends 2 to 7 dendrites (4.17 on average) (in cat, Palkovits et al., 1971b)
+According to Palay and Chan-Palay (1974) granule cell dendrites in rats also contact collaterals of climbing fibers through “climbing fiber glomeruli”).
+
+In cat, a glomerulus should receive 112 granule cell dendrites.
+
+
+page 75
+Table 4. Numerical data about granule cells
+
+      Rat	   Cat	Monkey	      Man
+Density/mm^3
+(x 10^6)	2.21-2.32a
+3.2b
+3.2d	1.75c
+2.1d
+2.8b
+2.8b	1.9-2.1d
+2.4f	1.6d
+2.1b
+3-7g
+Density/mm^2 of Purkinje cell layer	9.9x10^7b	2.2 x 10^9e		10^10-10^11g
+4.6x10^10h
+Granule cell to
+Purkinje cell ratio	250b
+356a
+897d	600b
+899c
+1769c
+1580d	960f	1600b
+2991d
+3000-9000g
+
+a Hillman and Chen (1981a)
+b Smoljaninov (1971)
+c Friedrich and Brand (1980)
+d Lange (1975)
+e Palkovits et al (1971b)
+f Fox and Bernard (1957)
+g Braitenberg and Atwood (1958)
+h Zagon, McLaughlin, and Smith (1977)
+
+page 76:
+Reference Lange’s (1975) table for 20 mammalian species.
+
+Average of 687,016 ascending granule cell axons traverse 1 mm^2 of the Purkinje cell layer (Palkovits et al., 1971b).
+
+p. 77:
+
+The estimate of the number of parallel fibers contacting a purkinje cell has also been a difficult task.  
+Palkovits et al., 1971c: (cat)
+400,000 traverse, but only 80,000 make contact - consistent with number of spines.
+Each parallel fiber cross 225 purkinje cells, but contact only 45.
+Brand, Dahl, Mugnaini (1976), 1,100. (Also in cat).
+
+
+Chapter 7: Mossy Fibers
+p. 86
+Palkovits et al., 1972
+9,6000 mossy fibers / mm^2, is 6 x number of purkinje cells.
+Mossy fibers are 2/3 total myelinated fibers, climbing fibers and purkinje cells, each 1/6.
+Mossy fiber : purkinje cell ratio is 4:1.
+
+p. 87
+Number of rosetts supplied by a mossy fiber within a folium, estimated previously as 20 to 44 (Fox, Hillman, and Siegmund, 1967; Eccles et al, 1967), but more recent data suggests 16 to 17 is more accurate (Palkovits et al., 1972).
+
+p 88
+Mossy fiber terminals also supply synapses to Golgi cells (Hamori and Szentagothai 1966b, Eccles, Ito, Szentagothai, 1967).  These synapses have been located on the somata of Golgi cells (Chan-Palay and Palay 1971a, b) and expanded terminals for extensive synaptic contacts on the irregular surface of Golgi cells, which have been termed synapse en Marron (see page 107).
+
+p. 90-91
+Latency of field potential response to mossy fiber input increases with depth (Fig41, p. 92).  Longer latency responses likely due to:
+mossy fibers (spinal cord [dorsal spinocerebellar tract] or external cuneate nucleus) => lateral reticular nucleus -> mossy fibers (from lateral reticular nucleus) create delayed response in granule cell layer.
+
+p. 91 Mossy fiber-granule cell-purkinje cell transmission
+
+From Palkovits et al. (1972).  
+Four mossy fibers entering folium will give rise to 16 rosettes each, contributing 64 glomeruli.  Since one rosette makes synaptic contact with 28 granule cells, the four mossy fibers will 1,792 granule cells.  Assuming a single parallel fiber has synaptic relations with 45 purkinje cells, the 1,792 granule cells will supply 80,640 syapses to Purkinje cells.  This equals the total number of dendritic spines in a Purkinje cell.  If the 1,792 granule cells contribute to the same small bundle of parallel fibers, these synapses will be allocated to 225 Purkinje cells along the 2mm length of parallel fibers, at a rate of 358 synapes per Purkinje cell.
+
+p. 92
+Spontaneous discharge of simple spikes often show coactivation, probably reflecting common innervation through parallel fibers (Bell and Grim, 1969).  However, no such short-latency, short-duration correlations were found for Purkinje cells separated by longitudinal distances along a folium greater than 100 um (Ebner and Bloedel, 1981b).  On the other hand, a long lasting correlation, either positive or negative was seen in about one-quarter of of the Purkinje cell pairs separated by distances up to 750 um.  There was no obvious relationship between the spatial orientation of the Purkinje cells and the characteristic of their cross-collelogram.  Ebner and Bloedel (1981a) are inclined to assume synchronized climbing fiber activation of Purkinje cells as a cause.
+
+p. 93
+In slice preparation in which parallel fibers are transected short, excitation of Purkinje cells still occurs through the intact ascending axons of granule cells, probably through ultiple synapses that ascending axons of granule cells form with dendrites of Purkinje cells (Llinas, 1982).  Bower and Woolston (1983) observed that rat Purkinje cells fire in a restricted area just overlying the group of granule cells activated from a peripheral focus, and suggested that the mossy fiber-granule cell-Purkinje cell pathway is organized primarily in a columnar fashion through ascending axons o granule cells and not in a beam-like fashion through parallel fibers.
+
+In this context, the possibility should be considered that the granule cell - Purkinje cell excitation does not follow the pattern of anatomical connections.  The Purkinje cells may be excited by only a subset of the parallel fiber synapses.
+
+Chapter 8 - climbing fibers
+
+p. 94
+Rich collateral arborization of climbing fiber suggests connections with other types of cells.
+p.95-96 forms synapse with somata of Golgi cells and Lugaro cells.  “Climbing fiber glomerules” “climbing fiber collateral” contacts dendrites of granule cells.  However, this has been questioned.
+
+p. 95
+Total number of synaptic contact sites between climbing fiber and Purkinje cell in frog cerebellum estimated to be 300 (Llinas, Bloedel and Hillman, 1969).
+
+p. 96
+Desclin (1974) observed fairly frequent branching of climbing fibers ... in favorable cases, two branches from the same climbing fiber reach distinct Purkinje cells lying 12 to 14 cells apart.
+
+p. 96-97
+Ratio of inferior olive neurons to Purkinje cells is about 1:15 in humans (Moatamed, 1966; Escobar, Sampedro, and Dow, 1968) and 1:10-11 in cats (Mlonyeni, 1973).  Therefore, an olivocerebellar afferent may divide into 10 to 15 branches in the cerebellum, and each branch may innervate a single Purkinje cell.
+
+p. 98 right.
+multiple innervation being reduced to one seems to depend on activity of parallel fibers.
+
+p. 99
+
+
+
+
+
+
+
+.. footbibliography::
