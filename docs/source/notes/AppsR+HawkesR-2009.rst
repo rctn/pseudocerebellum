@@ -103,7 +103,8 @@ Modules and microzones.
    In the same way that Purkinje cell stripes are evolutionarily
    conserved, cerebellar modules are remarkably
    similar in a range of species (see Supplementary information
-   S1 (table)). The behavioural significance of
+   S1 (table)). `S1 (table) <../_static/papers/AppsR+HawkesR-2009_supp.pdf>`_
+   The behavioural significance of
    these modules is beyond the scope of this Review but
    their conservation implies that each subserves a similar
    function in different species (for example, regulation of
