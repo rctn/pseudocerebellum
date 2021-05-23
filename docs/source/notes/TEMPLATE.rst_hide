@@ -1,0 +1,26 @@
+**************
+KEY
+**************
+
+Notes about :cite:`KEY` :footcite:`KEY`.
+
+.. footbibliography::
+
+
+This paper shows that Purkinje Cell Collaterals Feed Back to Purkinje Cells
+and Interneurons
+
+p. 317:
+
+     COPIED TEXT
+     
+
+.. figure:: ../_static/images/KEY_fig2.jpg
+   :alt: Fig 2. from KEY
+   :scale: 50
+   :align: center
+
+   Figure 2 in KEY :cite:`KEY`.
+
+
+

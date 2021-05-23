@@ -1,6 +1,6 @@
-*****************
-AndersonBB+2-1992
-*****************
+*******************************************************************************************************
+AndersonBB+2-1992 - A quantitative study of the human cerebellum with unbiased stereological techniques
+*******************************************************************************************************
 
 
 Notes about :cite:`AndersonBB+2-1992` :footcite:`AndersonBB+2-1992`.
