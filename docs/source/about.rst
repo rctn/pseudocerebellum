@@ -12,6 +12,7 @@ pseudocerebellum@berkeley.edu
 Editors' note, October 13, 2020: This website is under construction,
 your comments are welcome.
 
+.. _about:
 
 **********************************
 About the Pseudocerebellum project

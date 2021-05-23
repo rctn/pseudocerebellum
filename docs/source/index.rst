@@ -16,6 +16,7 @@ Welcome to the Pseudocerebellum project website!
    tables/index
    properties/index
    data/data
+   questions/questions
    notes/notes
    references
    bibliography

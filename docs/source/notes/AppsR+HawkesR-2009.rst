@@ -7,8 +7,7 @@ Notes about :cite:`AppsR+HawkesR-2009` :footcite:`AppsR+HawkesR-2009`.
 .. footbibliography::
 
 
-This paper shows that Purkinje Cell Collaterals Feed Back to Purkinje Cells
-and Interneurons
+This paper describes different zones of the cerebellum.
    
 
 
