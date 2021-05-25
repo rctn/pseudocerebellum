@@ -262,15 +262,15 @@ Mathematical Models Other than Associative Memory
 =================================================
 
 Fujita M (1982).  Adaptive filter model of the cerebellum.
-  Biological Cybernetics 45(3):195-206.
+  Biological Cybernetics 45(3):195-206.  `<https://doi.org/10.1007/BF00336192>`_
 
 Miyashita Y and Paulin M (1989).  A Kalman filter theory of the
   cerebellum.  Dynamic interactions in neural networks. pp. 239-259.
-  Berlin, Heidelberg: Springer-Verlag.
+  Berlin, Heidelberg: Springer-Verlag. `<https://doi.org/10.1007/978-1-4612-4536-0_15>`_
 
 Pellionisz A and Llinas R (1980).  Tensor approach to the geometry
   of brain function: Cerebellar coordination metric tensor.
-  Neuroscience 5:1125-1136.
+  Neuroscience 5:1125-1136. `<https://doi.org/10.1016/0306-4522(80)90191-8>`_
 
 
 .. THAT'S ALL, FOLKS ..
