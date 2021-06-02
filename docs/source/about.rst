@@ -1,17 +1,6 @@
 
 .. Tue Oct 13 10:12:44 PDT 2020
 
-****************************
-THE PSEUDOCEREBELLUM PROJECT
-****************************
-
-Pentti Kanerva, Jeff Teeters and Bruno Olshausen
-
-pseudocerebellum@berkeley.edu
-
-Editors' note, October 13, 2020: This website is under construction,
-your comments are welcome.
-
 .. _about:
 
 **********************************
@@ -224,11 +213,11 @@ efficient realization of Jaeckel's selected-coordinate design.
 
 .. *******************************************************
 
-RESOURCES
+Resources
 =========
 
 Projects and Websites
-=====================
+---------------------
 
 1. CEREBELLAR PLATFORM is a Japanese collection of references to
 cerebellar research up to 2018:
@@ -255,14 +244,14 @@ different parts of the cerebellum in a variety of tasks (King et al.,
 2019a,b) :cite:`KingM+4-2019a,KingM+4-2019b`. 
 
 Review Articles
-===============
+---------------
 
   http://www.scholarpedia.org/article/Cerebellum
 
 
 
 Mathematical Models Other than Associative Memory
-=================================================
+-------------------------------------------------
 
 Fujita M (1982).  Adaptive filter model of the cerebellum.
   Biological Cybernetics 45(3):195-206.  `<https://doi.org/10.1007/BF00336192>`_

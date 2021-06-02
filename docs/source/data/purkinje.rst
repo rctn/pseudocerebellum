@@ -25,6 +25,7 @@ Reference:
 
    Source cell| Target cell | Value    | Reference
    purkinje   | Cell count  | 1.3x10^6 | LoebnerEE-1989
+   purkinje   | granule    | ?,?      | GuoC+5-2016
 
 
 .. footbibliography::
