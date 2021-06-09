@@ -25,13 +25,19 @@ Quantity
 
 In cat:
 
-Following from :cite:`ItoM-1984`, page 86:
+   So far, I have not found an explicit estimate of the total number of mossy fibers in cat.
+   Instead, the numerical values provided are based on the divergence and convergence between
+   cell types within a folium.  The unknown factor is the number of folia which are innervated
+   by each mossy fiber.  Statements related to the quantity are below.
+
+   Following from :cite:`ItoM-1984`, page 86:
 
    Mossy fiber-Purkinje cell ratio within the folia is 4:1 :cite:`PalkovitsM+2-1972`.
    If each mossy fiber afferent innervates two folis by branching in the white matter, there
    will be **2.4 x 10^6** mossy fibers in the whole cat cerebellum (a total number of Purkinje cells
    is assumed to be 1.2 x 10^6; :cite:`PalkovitsM+2-1971a`.  However, this is an overestimate
    if the mossy fibers branch more abundantly.
+
 
    "According to earlier data :cite:`PalkovitsM+2-1971b` the granule cell-glomerulus ratio is
    27-28:1, the mossy fiber-granule cell ratio is therefore 1:460."
@@ -40,14 +46,14 @@ Following from :cite:`ItoM-1984`, page 86:
    The granular layer contributed to 29.09% of the total cerebellar
    volume, their absolute number being *2.2 x 10^9*. :cite:`PalkovitsM+2-1971b` p. 29.
 
-
+   The above two would mean 4.78 x 10^6 mossy fibers (2.2 x 10^9 granule cells / 460);
 
 Structure
 =========
 
    "Within a folium, a mossy fiber branches along the plane perpendicular to the long axis of the folium.
-    Therefore, the cascade arborization of mossy fibers (Cajal, 1911) tends to be parallel with the
-    dendritic arborization of Purkinje cells."  :cite:`ItoM-1984`, p. 87.
+   Therefore, the cascade arborization of mossy fibers (Cajal, 1911) tends to be parallel with the
+   dendritic arborization of Purkinje cells."  :cite:`ItoM-1984`, p. 87.
 
 
 Connection to glomeruli
@@ -59,7 +65,7 @@ Divergence
 
    "One mossy fiber breaks up (within a given folium) into about 16-17 mossy
    rosettes" (which glomeruli form around).  :cite:`PalkovitsM+2-1972`.
-   :cite:`ItoM-1984`, page 86:
+   From :cite:`ItoM-1984`, page 86:
    "If each mossy fiber afferent innervates two folis by branching in the white matter, ..."
    (Comment:: Would this mean about 32 glomeruli per mossy fiber)?
 
@@ -96,9 +102,10 @@ Cat:
   dendrites*. The number of postsynaptic units (dendrite digits) is 10.2/dendrite and
   1,142/glomerulus."
 
-  This seems contradictory, (28 granule cells vs 112 granule dendrites).  I'm not sure, what
-  the second sentence means. 
-   
+  At first, this seems contradictory, (28 granule cells vs 112 granule dendrites per glomerulus).
+  As described in the section of Golomeruli to grannule connection :ref:`glomeruli_to_grannule`
+  I think the fan out is 1,792 per mossy fiber (as given in :cite:`LoebnerEE-1989`, fig 2).
+
    
 Convergence
 -----------
@@ -137,7 +144,7 @@ Cat:
    Unknown (:cite:`LoebnerEE-1989`, fig 2).
 
 Convergence
------_-----
+-----------
 
 Cat:
 

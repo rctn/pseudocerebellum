@@ -44,12 +44,16 @@ In cat:
    The granular layer contributed to 29.09% of the total cerebellar
    volume, their absolute number being *2.2 x 10^9*. :cite:`PalkovitsM+2-1971b` p. 29.
 
+
+.. _glomeruli_to_grannule:
    
 Connection to grannule cells
 ============================
 
 Divergence
 ----------
+
+Cat:
 
    From :cite:`PalkovitsM+2-1972`, p. 26:
    "Four mossy fibers entering a folium give rise to 16 rosettes
@@ -64,10 +68,33 @@ Divergence
    dendrites*. The number of postsynaptic units (dendrite digits) is 10.2/dendrite and
    1,142/glomerulus."
 
-   This seems contradictory, (28 granule cells vs 112 granule dendrites).  I'm not sure, what
-   the second sentence means.  28 is the underlying value used in :cite:`LoebnerEE-1989` since the
-   value of 1.7x10^3 is given as the value for divergence from mossy fibers to granule cells.
+   This seems contradictory, (28 granule cells vs 112 granule dendrites).  I think the
+   "dendrite digits" refers to a dendrite having multiple protrusions as shown in
+   :cite:`EcclesJC+2-1967` Fig. 75 (see note for this paper), so those can be ignored
+   for the purpose of calculating the divergence.
 
+   So, the question is whether the divergence from glomeruli is 28 or 112?  I think it is
+   112, and that the value of 28 is calculated by taking into account the convergence of 4
+   (112 / 4) = 28.  This seems compatable with the divergence:convergence from mossy fibers
+   to granule cells given in the :cite:`LoebnerEE-1989` fig 2 which is 1.7x10^3:4 because 1,792
+   is given as the number of granule cells reached by 4 mossy fibers on average (quote above
+   from :cite:`PalkovitsM+2-1972`, p. 26) and Loebner is
+   using that as the number reached by one mossy fiber, which means that mossy fiber has 4x
+   the divergence than that given by one mossy fiber.
+
+   Another potential contradiction is the total number of mossy fibers.
+   In the Loebner paper,
+   the divergence:convergence from mossy fibers to granule cells is given as 1.7x10^3:4 and
+   the number of granule cells is given as 2.2 x 10^9.  From this, the number of mossy fibers
+   would be about (2.2x10^9 * 4 / 1.7x10^3) = 5.2x10^6 mossy fibers.  This is more than the estimated
+   number of 2.4 x 10^6 mossy fibers, which might already be an overestimate.
+
+Rat:
+   From :cite:`JakabRL+HamoriJ-1988`, abstract
+   The results demonstrate that, in the rat cerebellum, there
+   is a high degree of convergence of granule cells at a glomerulus
+   (53 to 1); and that there is a rich inhibitory input
+   to about 60% of all granule cell dendrites.
 
 Convergence
 -----------

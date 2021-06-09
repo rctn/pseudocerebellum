@@ -7,10 +7,14 @@ Notes about :cite:`WitterL+4-2016` :footcite:`WitterL+4-2016`.
 .. footbibliography::
 
 
-This paper shows that Purkinje Cell Collaterals Feed Back to Purkinje Cells
-and Interneurons
+This paper shows that Purkinje cell collaterals Feed Back to Purkinje Cells
+and Interneurons.  Experiments were done using mice.
 
 p. 317:
+
+     Collaterals were confined to a narrow
+     sagittal plane but extended hundreds of micrometers within
+     that plane.
 
      ... we estimate that each PC receives input from five to ten other PCs
      (Figure 4).  This is in good agreement with our estimates of

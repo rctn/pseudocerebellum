@@ -2,8 +2,6 @@
 Basket cells
 ************
 
-
-
 **Overview**
    (adapted from: http://www.scholarpedia.org/article/Cerebellum#Neuronal_types):
    
@@ -44,27 +42,53 @@ Basket cells
    Stimulation and inhibition of Purkinje cells. From :cite:`LlinasRR-1975`.
 
 
-Data about basket cells:
+Quantity
+========
 
-Number of cells:  About 6x number of Purkinje cells.  For cat, this is
-7.5x10^6.   See note for: :cite:`PalkovitsM+2-1971c`.
+In Cat:
+
+   About 6x number of Purkinje cells.  For cat, this is
+   7.5x10^6.   See note for :cite:`PalkovitsM+2-1971c`.
 
 
-Connections.
 
 Synapse with purkinje cells:
+============================
 
-:cite:`PalkovitsM+2-1971c` states that:
+
+Divergence
+----------
+
+In cat:
+
+   :cite:`PalkovitsM+2-1971c` states that:
 
    "Calculations of the average number of Purkinje cell baskets in which
    the basket axon participates gave unexpectedly low values: 8-9
    baskets per axon."
 
-This is a "fan-out" (divergence) of about 8-9.  However, the scholarpedia article (exerpt above)
-states up to 150 Purkinje cell bodies may be contacted.  That may be for a different
-species, perhaps human.  Some other sources of data (referenced in :cite:`DAngeloE+11-2016`,
-Table 1 for mouse) specify a divergence of 1:30 and convergence of 7:1.
+   This is a "fan-out" (divergence) of about 8-9.  However, the scholarpedia article (exerpt above)
+   states up to 150 Purkinje cell bodies may be contacted.  That may be for a different
+   species, perhaps human.  Some other sources of data (referenced in :cite:`DAngeloE+11-2016`,
+   Table 1 for mouse) specify a divergence of 1:30 and convergence of 7:1.
 
+Convergence
+-----------
+
+In cat:
+   50  :cite:`LoebnerEE-1989`.
+
+
+
+Gap junctions and synapses between basket cells
+=================================================
+
+
+There are also synaptic gap junctions between molecular layer
+interneurons which are oriented along the sagittal plane (same
+direction as the basket cell axons, perpendicular to the parallel
+fibers).  Described in note for: :cite:`RieublandS+2-2014`.
+   
 
 .. tbldata:: table_loebner_fig2a
    :id_prefix: b
@@ -72,11 +96,6 @@ Table 1 for mouse) specify a divergence of 1:30 and convergence of 7:1.
    Source cell | Cell count or Target cell   | Value       | Reference
    basket      | Cell count                  | 7.5x10^6    | LoebnerEE-1989
    basket      | purkinje                    | 9, 50       | LoebnerEE-1989
-
-
-There are also gap junctions between basket cells which are oriented along the
-sagittal plane (same direction as the basket cell axons, perpendicular to the
-parallel fibers).  Described in note for: :cite:`RieublandS+2-2014`.
 
 
 

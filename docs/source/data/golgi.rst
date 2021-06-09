@@ -27,29 +27,53 @@ via gap junctions :cite:`DeZeeuwCI+2-2021` and inhibit each other by
 synaptic connections :cite:`HullC+RegehrWG-2012`.
 Also, some Golgi cells receive inhibition from deep Cerebellar Nuclei :cite:`AnkriL+5-2015`.
 
-The Loebner Fig 2 table :ref:`about` has arrows for connections between Golgi cells and Basket cells.
+:cite:`LoebnerEE-1989` Fig 2 :ref:`about` has arrows for connections between Golgi cells and Basket cells.
 But according to :cite:`DeZeeuwCI+2-2021` connections between Golgi Cells and molecular
-layer interneuronshave been ruled out, so they are removed from the table.
+layer interneuronshave been ruled out.  So removing these connections would be an update to the figure
+to account for more recent data.
 
-Some additional connections needed for Loebner fig 2 table are between
+Some additional connections needed for :cite:`LoebnerEE-1989` Fig 2 are between
 Golgi cells (both gap junctions and synaptic connections).
 
 
-Data about Golgi cells (for cat):
+Quantity
+========
+
+Cat:
+
+   4.2x10^5 :cite:`LoebnerEE-1989` Fig 2
 
 
-Number of cells: 4.2x10^5
+ 
+Connection to Granule Cells
+===========================
 
-Connections:
+Divergence
+----------
 
-| Granule:
-| FO,FI: 5.2x10^3,?
+Cat:
 
-| Basket:
-| FO,FI: --none--
+   5.2x10^3 :cite:`LoebnerEE-1989` Fig 2
 
-| Golgi:
-| FO,FI: ?,?
+
+Convergence
+-----------
+
+Cat: Unknown. :cite:`LoebnerEE-1989` Fig 2.
+
+
+
+Gap junctions between Golgi Cells
+=================================
+
+Described in: :cite:`DugueGP-2009+8`.
+
+
+Synaptic inhibition between Golgi Cells
+=======================================
+
+
+Described in:  :cite:`HullC+RegehrWG-2012`
 
 
 .. tbldata:: table_loebner_fig2a

@@ -29,6 +29,17 @@ From Abstract:
    rules suggest that these motifs are essential
    for the function of the cerebellar network.
 
+From p. 923:
+   
+   Although
+   classically MLIs have been divided into basket and stellate cells,
+   our data support the accumulating evidence suggesting that
+   these cells constitute a single population with a continuum of
+   morphological properties with their position in the ML as main
+   parameter: their dendrite length becomes gradually shorter the
+   higher the interneuron is located in the ML
+   
+
    
 .. figure:: ../_static/images/RieublandS+2-2014_fig2.jpg
    :alt: Fig 2. from RieublandS+2-2014
