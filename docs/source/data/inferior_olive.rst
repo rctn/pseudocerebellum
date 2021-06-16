@@ -13,20 +13,20 @@ the cerebellum (the climbing fibers).  Each climbing fiber targets
 a single climbing fiber.  There are three major components of the IO.
 
 * Primary olivary nucleus (PO) – This is the major laminar structure.
-It receives signals from other components of the brainstem, such as
-the red nucleus and the N. Darkschewitsch. The PO also receives signals
-from the cerebral cortex.   The PO targets the intermediate cerebellum
-as well as the cerebellar hemispheres.
+  It receives signals from other components of the brainstem, such as
+  the red nucleus and the N. Darkschewitsch. The PO also receives signals
+  from the cerebral cortex.   The PO targets the intermediate cerebellum
+  as well as the cerebellar hemispheres.
 
 * Medial accessory olivary nucleus (MAO) –
-The MAO receives signals from the tectum and the
-pretectum.  Climbing fibers from the MAO synapse with the vermis,
-the flocculus, and the cerebellar hemispheres.
+  The MAO receives signals from the tectum and the
+  pretectum.  Climbing fibers from the MAO synapse with the vermis,
+  the flocculus, and the cerebellar hemispheres.
 
 * Dorsal accessory olivary nucleus (DAO) –  It is
-the smallest nucleus in the IO.  It
-receives signals from the spinal cord and the dorsal column nuclei.
-The DAO synapses with vermis.
+  the smallest nucleus in the IO.  It
+  receives signals from the spinal cord and the dorsal column nuclei.
+  The DAO synapses with vermis.
 
 
 Synapse with Purkinje cells

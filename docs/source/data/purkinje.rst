@@ -40,9 +40,14 @@ Quantity
 Cat:
    The total number of Purkinje ceils was 1.2-1.3 million. :cite:`PalkovitsM+2-1971a`.
 
+   The granule cell : Purkinje cell ratio was 1700-1800.  :cite:`PalkovitsM+2-1971b` p. 29.
+
+
 Human:
    15 million (total number both hemispheres) :cite:`TomaschJ-1968`.
 
+
+See Table 2 in note for :cite:`LangeW-1975` for granule cell : Purkinje cell ratio for different species.
 
 
 Connection to Golgi Cells

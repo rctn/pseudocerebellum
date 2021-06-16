@@ -43,6 +43,10 @@ Cat:
 
    4.2x10^5 :cite:`LoebnerEE-1989` Fig 2
 
+   The numerical ratio of Golgi cells : Purkinje cells was 1 : 3 :cite:`PalkovitsM+2-1971b`, p. 30.
+   The total number of Purkinje ceils was 1.2-1.3 million. :cite:`PalkovitsM+2-1971a`.  These two
+   quantities would mean that the number of Golgi cells would be about 1.25 million / 3, or about
+   4.17 x 10^5.  This is probably the source of data in LoebnerEE-1989 Fig. 2.
 
  
 Connection to Granule Cells

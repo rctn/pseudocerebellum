@@ -48,6 +48,18 @@ In cat:
    being 2.8 x 10^6/cu.mm.  :cite:`PalkovitsM+2-1971b` p. 29.
    
 
+In rat:
+
+   Using morphological measurements, it can be calculated that the rat
+   cerebellar granular layer has a cell density of 4 × 10^6/mm^3 for
+   granule cells and 9300/mm^3 for Golgi cells, with a Golgi cell :
+   granule cell ratio of 1:430 (Korbo et al., 1993).  Moreover, the
+   density of the glomeruli is 3 × 10^5/mm^3, and each glomerulus is
+   composed of one mossy fiber terminal, about 53 dendrites from separate
+   granule cells (Jakaband Hamori, 1988), and one or more dendrites from
+   Golgi cells.  :cite:`DAngeloE+5-2013` p. 9-10.
+   
+
 Quantity
 ========
 
@@ -60,6 +72,10 @@ In cat:
    This value is used in :cite:`LoebnerEE-1989` (the value is probably from the same
    source, e.g. :cite:`PalkovitsM+2-1971b`).
 
+
+   The granule cell : Purkinje cell ratio was 1700-1800.  :cite:`PalkovitsM+2-1971b` p. 29.
+
+See Table 2 in note for :cite:`LangeW-1975` for granule cell : Purkinje cell ratio for different species.
 
 
 Connection to Purkinje Cells

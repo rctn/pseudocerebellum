@@ -38,6 +38,9 @@ Cat:
    :cite:`PalkovitsM+3-1977`.
 
 
+   4.8x10^4, :cite:`LoebnerEE-1989` Fig 2
+
+
 Excitatory connection to Granule and Golgi Cells
 ================================================
 
