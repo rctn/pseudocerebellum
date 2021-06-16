@@ -7,7 +7,7 @@ Notes about :cite:`LangeW-1975` :footcite:`LangeW-1975`.
 .. footbibliography::
 
 
-This paper had data on Purkinje and granule cell counts in different species.
+This paper has data on the Purkinje and granule cell ratio in different species.
    
 
 
