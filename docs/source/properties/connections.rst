@@ -27,6 +27,9 @@ Connections to / from the cerebellum
 
 
 
+Magnocellular visual pathway provides input to cerebellum but not parvocellular pathway.
+:cite:`GlicksteinM-2007`.
+
 
 
 Below text from :cite:`KandelER+4-2013`.

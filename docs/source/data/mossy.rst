@@ -115,6 +115,11 @@ Cat:
    4 (from :cite:`LoebnerEE-1989`, fig 2); 4.17 (from :cite:`PalkovitsM+2-1972`, p. 28).
 
 
+Mouse and in general:
+
+   About 4.  Analysis of why 4 is optimal in: :cite:`BillingsG+4-2014`.
+
+
 Connection to Golgi cells
 =========================
 

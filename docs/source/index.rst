@@ -11,7 +11,7 @@ Pentti Kanerva, Jeff Teeters and Bruno Olshausen
 
 pseudocerebellum@berkeley.edu
 
-Editors’ note, May 30, 2021: This website is under construction, your comments are welcome.
+Editors’ note, Oct 11, 2021: This website is under construction, your comments are welcome.
 
 
 .. toctree::
