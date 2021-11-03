@@ -265,6 +265,12 @@ Pellionisz A and Llinas R (1980).  Tensor approach to the geometry
   Neuroscience 5:1125-1136. `<https://doi.org/10.1016/0306-4522(80)90191-8>`_
 
 
+Recent reviews of Associative Memory Models
+-------------------------------------------
+
+:cite:`KawatoM+3-2021`.
+
+
 .. THAT'S ALL, FOLKS ..
 .. Tue Oct 13 13:31:16 PDT 2020
 
